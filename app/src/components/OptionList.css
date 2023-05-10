@@ -1,0 +1,25 @@
+.list-container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px 10px 10px 10px;
+    /* max-width: 1000px; */
+}
+
+.list-container-title {
+    font-weight: 700;
+    font-size: x-large;
+    color: black;
+}
+
+.options-list-container {
+    display: flex;
+    background-color: var(--list-background-color);
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px var(--main-shadow-color);
+    padding: 10px 10px 5px 10px;
+    gap: 20px;
+    width: fit-content;
+    max-width: 1000px;
+    overflow-x: auto;
+}

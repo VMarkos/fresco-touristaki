@@ -1,0 +1,28 @@
+.option-image-container {
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    filter: brightness(60%);
+}
+
+.option-relative-container {
+    position: relative;
+}
+
+.option-info-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    font-size: 18pt;
+    font-weight: 600;
+    padding: 5px 0px 0px 10px;
+}
+
+.ecopoints-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0px 10px 10px 0px;
+}
