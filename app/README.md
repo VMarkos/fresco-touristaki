@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To install this, create locally a new project, install any default node modules and then copy-paste the `src` directory from this repository.
+
 ## Available Scripts
 
 In the project directory, you can run:
